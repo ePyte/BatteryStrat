@@ -12,8 +12,9 @@ Please provide the battery percentage (integer between 0 and 100):
 Battery percentage is excellent!
 Changing backlight to 100%.
 ```
-# UML diagram
-![image](https://github.com/user-attachments/assets/552945f7-be50-4f8b-9151-86b2cc0e196d)
+# UML diagram - Class diagram
+![image](https://github.com/user-attachments/assets/0de5a0e0-14e9-42f5-9ba7-2b3ee2796af0)
+
 
 
 
