@@ -1,0 +1,37 @@
+class Context {
+    - _strategy: IStrategy?
+
+    + Context()
+    + Context(IStrategy)
+
+    + SetStrategy(IStrategy): void
+    + PerformOperations(): void
+}
+
+interface IStrategy {
+    + SendInfo(): void
+    + ChangeBackLight(): void
+}
+
+
+
+class LowBattery <IStrategy> {
+    + SendInfo(): void
+    + ChangeBackLight(): void
+}
+
+class MediumBattery <IStrategy> {
+    + SendInfo(): void
+    + ChangeBackLight(): void
+}
+
+class HighBattery <IStrategy> {
+    + SendInfo(): void
+    + ChangeBackLight(): void
+}
+
+
+Context o--> IStrategy
+IStrategy <|-- LowBattery
+IStrategy <|-- MediumBattery
+IStrategy <|-- HighBattery
