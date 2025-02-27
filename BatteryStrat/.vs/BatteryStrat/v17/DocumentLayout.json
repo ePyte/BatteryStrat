@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\gitProjects\\BatteryStratC\\BatteryStrat\\BatteryStrat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C4DE579-F2D6-493F-843F-17E29BD805A9}|BatterStratTest\\BatterStratTest.csproj|c:\\gitprojects\\batterystratc\\batterystrat\\batterystrat\\batterstrattest\\batterytest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4DE579-F2D6-493F-843F-17E29BD805A9}|BatterStratTest\\BatterStratTest.csproj|solutionrelative:batterstrattest\\batterytest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|c:\\gitprojects\\batterystratc\\batterystrat\\batterystrat\\batterystrat\\lowbattery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|solutionrelative:batterystrat\\lowbattery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|c:\\gitprojects\\batterystratc\\batterystrat\\batterystrat\\batterystrat\\highbattery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|solutionrelative:batterystrat\\highbattery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|c:\\gitprojects\\batterystratc\\batterystrat\\batterystrat\\batterystrat\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|c:\\gitprojects\\batterystratc\\batterystrat\\batterystrat\\batterystrat\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|solutionrelative:batterystrat\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|c:\\gitprojects\\batterystratc\\batterystrat\\batterystrat\\batterystrat\\highbattery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|solutionrelative:batterystrat\\highbattery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4272FA7A-3D14-4812-B24B-97D5F1888475}|BatteryStrat\\BatteryStrat.csproj|c:\\gitprojects\\batterystratc\\batterystrat\\batterystrat\\batterystrat\\mediumbattery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 325,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "HighBattery.cs",
               "DocumentMoniker": "C:\\gitProjects\\BatteryStratC\\BatteryStrat\\BatteryStrat\\BatteryStrat\\HighBattery.cs",
               "RelativeDocumentMoniker": "BatteryStrat\\HighBattery.cs",
@@ -55,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MediumBattery.cs",
               "DocumentMoniker": "C:\\gitProjects\\BatteryStratC\\BatteryStrat\\BatteryStrat\\BatteryStrat\\MediumBattery.cs",
               "RelativeDocumentMoniker": "BatteryStrat\\MediumBattery.cs",
@@ -63,12 +55,11 @@
               "RelativeToolTip": "BatteryStrat\\MediumBattery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:51:38.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T19:51:38.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\gitProjects\\BatteryStratC\\BatteryStrat\\BatteryStrat\\BatteryStrat\\Context.cs",
               "RelativeDocumentMoniker": "BatteryStrat\\Context.cs",
@@ -76,12 +67,11 @@
               "RelativeToolTip": "BatteryStrat\\Context.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:44:08.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T19:44:08.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IStrategy.cs",
               "DocumentMoniker": "C:\\gitProjects\\BatteryStratC\\BatteryStrat\\BatteryStrat\\BatteryStrat\\IStrategy.cs",
               "RelativeDocumentMoniker": "BatteryStrat\\IStrategy.cs",
@@ -89,40 +79,7 @@
               "RelativeToolTip": "BatteryStrat\\IStrategy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:15:44.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BatteryTest1.cs",
-              "DocumentMoniker": "C:\\gitProjects\\BatteryStratC\\BatteryStrat\\BatteryStrat\\BatterStratTest\\BatteryTest1.cs",
-              "RelativeDocumentMoniker": "BatterStratTest\\BatteryTest1.cs",
-              "ToolTip": "C:\\gitProjects\\BatteryStratC\\BatteryStrat\\BatteryStrat\\BatterStratTest\\BatteryTest1.cs",
-              "RelativeToolTip": "BatterStratTest\\BatteryTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:12:52.861Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 275,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LowBattery.cs",
-              "DocumentMoniker": "C:\\gitProjects\\BatteryStratC\\BatteryStrat\\BatteryStrat\\BatteryStrat\\LowBattery.cs",
-              "RelativeDocumentMoniker": "BatteryStrat\\LowBattery.cs",
-              "ToolTip": "C:\\gitProjects\\BatteryStratC\\BatteryStrat\\BatteryStrat\\BatteryStrat\\LowBattery.cs",
-              "RelativeToolTip": "BatteryStrat\\LowBattery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:11:59.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T19:15:44.285Z"
             }
           ]
         }

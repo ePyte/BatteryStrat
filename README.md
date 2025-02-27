@@ -16,6 +16,8 @@ Changing backlight to 100%.
 ![image](https://github.com/user-attachments/assets/0de5a0e0-14e9-42f5-9ba7-2b3ee2796af0)
 
 
+# Testing
+The project contains unit tests for LowBattery, MediumBattery and HighBattery classes.
 
 
 # Built with
